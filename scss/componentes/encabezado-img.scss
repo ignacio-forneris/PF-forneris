@@ -1,0 +1,11 @@
+
+#encabezadoImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(../../images/foto-encabezado.jpg);
+    padding: 120px;
+    background-size: cover;
+    background-position: center;
+  }

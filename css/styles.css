@@ -1,0 +1,132 @@
+.carrusel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 900px;
+  height: 500px;
+}
+
+.estilo-foto-carrusel {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  object-position: 70% -20%;
+  background-size: 10%;
+}
+
+.card-turnos {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.card-header {
+  font-size: 35px;
+}
+
+.card-body {
+  font-size: 20px;
+}
+
+.card-title {
+  font-size: 22px;
+}
+
+.card-text {
+  font-size: 13px;
+}
+
+.btn-primary {
+  font-size: 13px;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+.carrusel-turnos {
+  display: flex;
+  justify-content: left;
+  align-items: start;
+  flex-direction: column;
+}
+
+.card-turnos {
+  margin: 20px;
+}
+
+footer {
+  background-color: beige;
+  height: 150px;
+}
+
+footer .container {
+  padding-top: 30px;
+}
+
+.card-turnos {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.card-header {
+  font-size: 35px;
+}
+
+.card-body {
+  font-size: 20px;
+}
+
+.card-title {
+  font-size: 22px;
+}
+
+.card-text {
+  font-size: 13px;
+}
+
+.btn-primary {
+  font-size: 13px;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+.carrusel-turnos {
+  display: flex;
+  justify-content: left;
+  align-items: start;
+  flex-direction: column;
+}
+
+.card-turnos {
+  margin: 20px;
+}
+
+main {
+  min-height: 70vh;
+}
+main section .seccion-2 {
+  max-height: 50vh;
+}
+
+#encabezadoImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(../../images/foto-encabezado.jpg);
+  padding: 120px;
+  background-size: cover;
+  background-position: center;
+}
+
+.accordion {
+  margin: 25px 50px;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  z-index: 90000000000000;
+  display: flex;
+  background-color: transparent;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,28 @@
+.card-turnos {
+    margin-bottom: 20px;
+    width: 100%;
+}
+// <div class="card-header">MEDICINA</div>
+// <div class="card-body">
+//     <h5 class="card-title">SUSANA HORIA mp.0000</h5>
+//     <p class="card-text">esp:CLINICO - TURNO TARDE</p>
+//     <a href="#" class="btn btn-primary">PEDIR TURNO</a>
+
+.card-header{
+    font-size: 35px;
+}
+.card-body{
+    font-size: 20px;
+}
+.card-title{
+    font-size: 22px;
+}
+.card-text{
+    font-size: 13px;
+}
+.btn-primary{ 
+    font-size: 13px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+    
+}
