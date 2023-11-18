@@ -14,6 +14,10 @@
   background-size: 10%;
 }
 
+.card-body {
+  font-size: 150px;
+}
+
 .card-turnos {
   margin-bottom: 20px;
   width: 100%;
@@ -55,6 +59,9 @@
 footer {
   background-color: beige;
   height: 150px;
+  background-image: url(../../images/foto-encabezado.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 footer .container {
